@@ -1,0 +1,5 @@
+{
+  "name": "PhantomOff",
+  "description": "Anti-theft stealth mode app for Android. Intercepts power button to simulate a fake shutdown while keeping the phone running for tracking.",
+  "requestFramePermissions": []
+}
